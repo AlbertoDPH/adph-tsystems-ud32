@@ -1,0 +1,74 @@
+body html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+
+    overflow: hidden;
+    margin: 20px;
+}
+
+.navbar-top {
+    align-items: center;
+    padding: 10px;
+    background-color: #e8e8e8;
+}
+
+.navbar-top i {
+    margin-right: 5px;
+}
+
+.navbar-top .contact-info {
+    margin-right: 10px;
+}
+
+.navbar-bottom {
+    background-color: #2980b9;
+}
+
+.navbar-bottom .nav-link {
+    color: white;
+}
+
+.navbar-bottom .nav-link:hover {
+    color: #bdc3c7;
+}
+
+.navbar-bottom .form-inline {
+    align-items: center;
+    margin-right: 20px;
+}
+
+.navbar-bottom .social-media i {
+    margin-left: 10px;
+    color: white;
+}
+
+.container {
+    margin: 0;
+}
+
+.ms-auto2 .social-media {
+    /* margin-right: -170px; */
+}
+
+.d-flex {
+    margin-left: 5px;
+}
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+}
+
+.navbar-bottom .dropdown-submenu:hover .dropdown-menu {
+    display: block;
+}
