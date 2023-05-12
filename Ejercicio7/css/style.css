@@ -1,0 +1,70 @@
+body html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.img-fondo {
+    position: absolute;
+    width: 100vw;
+    height: 300px;
+}
+
+.img-alberto {
+    width: 180px;
+    height: auto;
+    padding: 10px;
+}
+
+.nav-item {
+    padding-top: 25px;
+}
+
+.container2 {
+    align-items: center;
+    margin: 30px;
+}
+
+.icon-conta2 {
+    font-size: 25px;
+}
+
+.icon2-conta2 {
+    font-size: 35px;
+}
+}
+
+.icon2-conta2 {
+    font-size: 10px;
+}
+
+.parrafo {
+    text-align: left
+}
+
+.lo-ma-pho {
+    margin-bottom: 30px;
+}
+
+.lenguaje {
+    color: #0bd074;
+    text-decoration: none;
+}
+
+h2,
+h5 {
+    color: white;
+}
+
+h3 {
+    display: flex;
+}
+
+i {
+    padding-right: 20px;
+    color: rgb(255, 255, 255);
+}
+
+li {
+    list-style-type: none;
+}
