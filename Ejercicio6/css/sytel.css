@@ -1,0 +1,59 @@
+body html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    width: 100%;
+    background-color: rgb(96, 151, 248);
+    padding-left: 20px;
+}
+
+.nav-link {
+    padding-left: 50px;
+
+}
+
+.container2 {
+    padding: 20px 0 0 40px;
+}
+
+.gris {
+    color: rgb(110, 110, 110);
+}
+
+p,
+a {
+    font-size: 11px;
+}
+
+.container3,
+.container4 {
+    padding: 20px 0 0 40px;
+}
+
+.conta3_01 {
+    padding-right: 30px;
+}
+
+.conta3_02 {
+    padding-left: 50px;
+}
+
+.conta3_03 {
+    padding-top: 30px;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a,
+.moyi {
+    font-weight: bold;
+}
